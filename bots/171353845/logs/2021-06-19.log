@@ -1,0 +1,7 @@
+[0m2021-06-19 15:45:49 V/Net 171353845: No BdhSession cache[0m
+[0m2021-06-19 15:45:49 V/Net 171353845: No server list cached.[0m
+[92m2021-06-19 15:45:49 I/Net 171353845: Connected to server 183.232.94.44:80[0m
+[0m2021-06-19 15:45:49 V/Net 171353845: Send: wtlogin.login[0m
+[0m2021-06-19 15:45:49 V/Net 171353845: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-19 15:46:03 V/Net 171353845: Send: wtlogin.login[0m
+[0m2021-06-19 15:46:03 V/Net 171353845: Recv: Error(bot=Bot(171353845), code=1, title=登录失败, message=帐号或密码错误，请重新输入。, errorInfo=)[0m
